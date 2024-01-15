@@ -28,6 +28,8 @@ I am a CEE student interested in learning about GIS and application of python in
     Mondays from 2 - 4 pm (schedule via email/Zoom)
 
 
+![image](https://github.com/Dkingly/up221-daisy/assets/155932357/bc6be63b-91d0-48bd-bb1f-b96aca9061d3)
+
 
 
 ![image](https://github.com/Dkingly/up221-daisy/assets/155932357/697611fc-ffe5-4cfa-9d84-5e265966a039)
