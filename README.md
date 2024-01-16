@@ -1,6 +1,8 @@
 # up221-daisy
 
-# UP221: Introduction to GIS and Spatial Data Science
+This is Daisy Mugodzeri's repository for UP221 - Introduction to GIS and Spatial Data Science
+
+## UP221: Introduction to GIS and Spatial Data Science
 
 Winter 2024
 
